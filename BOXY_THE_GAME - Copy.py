@@ -272,4 +272,5 @@ while not done: # separate loop for start screen
          
     pygame.display.update() 
     
+pygame.mixer.music.stop()    
 pygame.quit()
